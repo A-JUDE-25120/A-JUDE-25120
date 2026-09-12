@@ -25,20 +25,3 @@
 </div>
 
 <hr>
-
-<h3 align="center">📊 GitHub Activity & Stats</h3>
-
-<p align="center">
-  <a href="https://github.com/A-JUDE-25120">
-    <img src="https://github-readme-stats.vercel.app/api?username=A-JUDE-25120&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  </a>
-  <a href="https://github.com/A-JUDE-25120">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-JUDE-25120&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/A-JUDE-25120">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-JUDE-25120&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
